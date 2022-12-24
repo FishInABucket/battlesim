@@ -72,6 +72,7 @@ if __name__ == '__main__':
 ------------------------TO BE IMPLEMENTED -----------------------------------------------------------
 * implement super effective and not very effective attacks
 * allow for saving of a monster to a csv file that can be loaded up later
+* allow for saving of attacks to a csv file that can be referenced later
 
 -----------------------------------------------------------------------------------------------------
 """
